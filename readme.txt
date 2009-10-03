@@ -5,6 +5,11 @@
 This is show2chdat plugin for Pukiwiki.
 This shows 2ch text from dat data directly.
 
+== FEATURES/PROBLEMS:
+
+* original features and...
+* 
+
 == LICENSE:
 
 (The MIT License)  # temporarily...
